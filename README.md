@@ -23,5 +23,5 @@
 * The Player's goal is to shoot down the UFOs with the right tactics, jump to try to get closer to the UFO and shoot, try to stay out of the UFO beam at all times, and to get a score (Waves Beaten) as high as possible while avoiding death.
 * The user can play a series of rounds, and the highest count of Waves Beaten in each round is displayed on the home screen.
 * Similar to the game fly-thru-boxes, I have included an executable with all the textures and sounds included in the executable file.
-* There is also a video file of the gameplay inside the gameplay folder.
+* There is also a video file of the gameplay inside the ufo-invasions folder.
 * I hope all players have as much fun playing my game, just as how much fun I had designing it. 😉
